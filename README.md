@@ -17,7 +17,3 @@ I'm currently a Computer Information Technology/Cyber Defense student at Pelliss
 
 ## Certifications
 - Google Fundamentals of Digital Marketing
-
-## My Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aidenhazarie)
